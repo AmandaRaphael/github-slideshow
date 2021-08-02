@@ -1,1 +1,2 @@
 This is my first line for first commit
+This is my second line for commit from notepad
